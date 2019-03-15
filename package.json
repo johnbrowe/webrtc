@@ -1,0 +1,22 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbrowe/webrtc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbrowe/webrtc/issues"
+  },
+  "homepage": "https://github.com/johnbrowe/webrtc#readme",
+  "description": "",
+  "dependencies": {
+    "simple-peer": "^9.2.1"
+  }
+}
